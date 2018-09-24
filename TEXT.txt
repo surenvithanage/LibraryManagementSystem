@@ -1,0 +1,33 @@
+Save the project to particular directory
+If ur using phpstorm as ur IDE open the terminal and type
+php artisan serve
+But before you do this 
+Copy the env file from the main project ask ur leader for it if u done have or else create a new project and get the env
+file
+Then set the username password and database name
+Use mysql
+Create the database as well
+
+Once done
+
+type
+
+php artisan migrate 
+if u get an error just increase the size of the byte
+inside the config there is an app.php file
+
+If ur using cmd
+do the samething on it as well but the only difference is that you have to access the directory of the project.
+
+
+I sent u the video as proof just to confirm that everything is working
+
+I wasnt able to add the header because an error occurs due to the missing files which are available in your main project
+Cause with that error you cant run the project
+
+The footer will automatically adjust once the project is connected. I havent added the css file.
+
+OTher than that everything is working. Get help from ur project leader if u end up getting an error. Cause there 
+can be some minor errors when running it on ur lap. 
+
+Cheers!!
